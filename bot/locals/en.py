@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "හායි කොහොමද? 🥰❤️\nමම <b>කූඩැල්ලෙක් 😂</b>!\nමාව හැදුවෙ @Ravindu_Deshanz කියන මගෙ බොසා 😌❤️ :~.\nගෲපට එම්න අපේ 😍❤️: <a href='https://t.me/Ravindu_mirror>u/𝚁𝚘𝚘𝚝@𝚁𝚊𝚟𝚒𝚗𝚍𝚞 :~</a>",
+    'WELCOME_MESSAGE' : "හායි කොහොමද? 🥰❤️\nමම <b>කූඩැල්ලෙක් 😂</b>!\nමාව හැදුවෙ @Ravindu_Deshanz කියන මගෙ බොසා 😌❤️\nගෲපට එම්න අපේ 😍❤️\n https://t.me/Ravindu_mirror',
     'PASS_REQUIRED' : '\n\n<code>/{cmd_pass} </code>කියලා ගහලා පාස්වඩ් එක ගහන්න බොටාට ඇක්සස් කරන්න 😊🥰.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'නම: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
