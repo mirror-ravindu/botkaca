@@ -2,8 +2,8 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "හායි කොහොමද? 🥰❤️\nමම <b>කූඩැල්ලෙක් 😂</b>!\nමාව හැදුවෙ @Ravindu_Deshanz කියන මගෙ බොසා 😌❤️',
-    'PASS_REQUIRED' : '\n\n<code>/{cmd_pass} </code>කියලා ගහලා පාස්වඩ් එක ගහන්න බොටාට ඇක්සස් කරන්න 😊🥰.',
+    'WELCOME_MESSAGE' : "හායි 😍❤️\nමම <b>කූඩැල්ලා</b>!\nPowered by @Ravindu_Deshanz\nගෲපට එන්න අපේ 😌: <a href='t.me/Ravindu_mirror'>Mirror.Ravindu</a>",
+    'PASS_REQUIRED' : '\n\n<code>/{cmd_pass} </code>කියලා ගහලා පාස්වඩ් එක ගහන්න බොටාට ඇක්සස් කරන්න 🥰.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'නම: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
     'ARIA2_CHECKING_LINK' : "පරීක්ෂා කරමින් 😍❤️...",
