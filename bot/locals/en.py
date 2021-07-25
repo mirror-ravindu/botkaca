@@ -1,9 +1,8 @@
-
 from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "හායි කොහොමද? 🥰❤️\nමම <b>කූඩැල්ලෙක් 😂</b>!\nමාව හැදුවෙ @Ravindu_Deshanz කියන මගෙ බොසා 😌❤️\nගෲපට එම්න අපේ 😍❤️\n https://t.me/Ravindu_mirror',
+    'WELCOME_MESSAGE' : "හායි කොහොමද? 🥰❤️\nමම <b>කූඩැල්ලෙක් 😂</b>!\nමාව හැදුවෙ @Ravindu_Deshanz කියන මගෙ බොසා 😌❤️',
     'PASS_REQUIRED' : '\n\n<code>/{cmd_pass} </code>කියලා ගහලා පාස්වඩ් එක ගහන්න බොටාට ඇක්සස් කරන්න 😊🥰.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'නම: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
@@ -42,6 +41,6 @@ LOCAL = Local({
     'COMMAND_UPLOAD_AS_DOC' : 'toggle upload anything as document',
     'COMMAND_UPLOAD_AS_ZIP' : 'toggle upload anything as bundled zipfile',
     'COMMAND_SET_TRACKER' : 'set default tracker, sparated by newline',
-    'BLOCK_EMPTY' : "▱",
-    "BLOCK_FILLED" : "▰"
+    'BLOCK_EMPTY' : "▒",
+    "BLOCK_FILLED" : "▉"
 })
