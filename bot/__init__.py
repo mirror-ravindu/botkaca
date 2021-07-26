@@ -78,15 +78,15 @@ LOCAL = __import__(name = 'bot.locals.' + CONFIG.LOCAL, fromlist = ['LOCAL']).LO
 
 COMMAND = Config({
     'START' : 'start',
-    'PASSWORD' : 'pass',
-    'HELP' : 'help',
-    'LEECH' : 'leech',
-    'CANCEL_LEECH' : 'cancel',
+    'PASSWORD' : 'pass1',
+    'HELP' : 'help1',
+    'LEECH' : 'leech1',
+    'CANCEL_LEECH' : 'cancel1',
     'LEECH_LIST' : 'list',
-    'UPLOAD_AS_DOC' : 'upload_as_doc',
-    'UPLOAD_AS_ZIP' : 'upload_as_zip',
-    'SET_THUMBNAIL' : 'set_thumbnail',
-    'RESET_THUMBNAIL' : 'reset_thumbnail',
+    'UPLOAD_AS_DOC' : 'upload_as_doc1',
+    'UPLOAD_AS_ZIP' : 'upload_as_zip1',
+    'SET_THUMBNAIL' : 'set_thumbnail1',
+    'RESET_THUMBNAIL' : 'reset_thumbnail1',
     'SET_TRACKER' : 'set_tracker'
 }, 'COMMAND_')
 
