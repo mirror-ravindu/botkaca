@@ -48,6 +48,10 @@ Change config by set the corresponding environment variable name.
 # get botkaca source
 git clone https://github.com/azamaulanaaa/botkaca.git
 
+#install screen
+pip3 install screen
+sudo -S botkaca
+
 # build then execute using docker image
 docker build -t azamaulanaaa/botkaca botkaca
 docker run -it azamaulanaaa/botkaca
